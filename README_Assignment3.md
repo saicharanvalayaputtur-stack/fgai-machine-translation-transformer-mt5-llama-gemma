@@ -1,4 +1,4 @@
-<!-- DELETE THIS LINE. Search this file for the word FILL (Ctrl+F) and replace every marker with your real results before uploading. -->
+
 
 # Machine Translation (English to French): Transformer vs mT5 vs LLaMA vs Gemma
 
